@@ -1,0 +1,6 @@
+/usr/include/XPlaneExtPlaneClient/Base64.h
+/usr/include/XPlaneExtPlaneClient/TCPClient.h
+/usr/include/XPlaneExtPlaneClient/ExtPlaneClient.h
+/usr/lib/${LIBNAME}.so
+/usr/share/doc/${PACKAGE}${MAJORVERSION}-dev/html
+/usr/share/doc/${PACKAGE}${MAJORVERSION}-dev/latex
