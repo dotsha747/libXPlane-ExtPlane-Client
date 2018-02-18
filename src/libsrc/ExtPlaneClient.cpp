@@ -1,7 +1,6 @@
 /*
- This file is part of TestRotaryEncoder
- A Raspberry Pi-based Demo of a dual-rotary encoder and X-Plane
-
+ This file is part of libXPlane-ExtPlane-Client
+ A C++ Library to access X-Plane via the ExtPlane Plugin
 
  Copyright (C) 2018 shahada abubakar
  <shahada@abubakar.net>

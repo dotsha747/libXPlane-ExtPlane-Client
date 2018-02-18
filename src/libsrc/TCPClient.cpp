@@ -1,8 +1,8 @@
 /*
- This file is part of Pi-XPlane-FMC-CDU
- A Raspberry Pi-based External FMC for XPlane
+ This file is part of libXPlane-ExtPlane-Client
+ A C++ Library to access X-Plane via the ExtPlane Plugin
 
- Copyright (C) 2017-2018 shahada abubakar
+ Copyright (C) 2018 shahada abubakar
  <shahada@abubakar.net>
 
  This program is free software: you can redistribute it and/or modify
